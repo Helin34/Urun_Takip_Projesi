@@ -1,0 +1,17 @@
+C:\Users\helin\source\repos\formproject\formproject\bin\Debug\formproject.exe.config
+C:\Users\helin\source\repos\formproject\formproject\bin\Debug\formproject.exe
+C:\Users\helin\source\repos\formproject\formproject\bin\Debug\formproject.pdb
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.btnform.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.Properties.Resources.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.csproj.GenerateResource.cache
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.exe
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.pdb
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.frm.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.frm_istatistik.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.frmadmin.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.frmyonlendirme.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.Frmgrafik.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.frmmusteri.resources
+C:\Users\helin\source\repos\formproject\formproject\obj\Debug\formproject.frmsatislar.resources
